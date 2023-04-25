@@ -6,13 +6,13 @@ h1,h2,h3{
 	text-align:center;
 	
 }
-#player_one{
+.player_one{
 	list-style:none;
 	background-color:white;
 	
 	
 }
-ul li{
+a{
 	text-decoration:none;
 }
 #player{
