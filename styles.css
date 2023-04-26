@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
 body{
-	background-color:#cccc;
+	background-color:#cccccc;
+	text-align:center;
+	text-decoration:none;
 }
 h1,h2,h3{
 	text-align:center;
@@ -9,27 +11,32 @@ h1,h2,h3{
 .player_one{
 	list-style:none;
 	background-color:white;
+	padding: 10px;
+	border-radius: 3px;
 	
 	
 }
 .player_two{
 	
-	border:3px solid black
+	border:3px;
+	background-color:white;
+	padding: 10px;
+	border-radius: 3px;
 	
 }
 a{
 	text-decoration:none;
 }
-#player{
+/* #player{
 	background-color:white;
 	text-align:center;
-	border:3px solid green;
-	margin-left: 50px;
-	margin-right: 50px;
+ */
+	
 	
 	
 }
 li{
 	list-style:none;
+	text-align:left;
 }
 
